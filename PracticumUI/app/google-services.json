@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630062175219",
+    "project_id": "practicumapp-a5fdc",
+    "storage_bucket": "practicumapp-a5fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630062175219:android:bb75d6ff0a797e34cc3886",
+        "android_client_info": {
+          "package_name": "com.example.practicumui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630062175219-1kjei2ejiaifcl0g5tavaa9hrjfq3095.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsmwgQQDOXLU3m9UCt7V3vuTnxtFom1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630062175219-1kjei2ejiaifcl0g5tavaa9hrjfq3095.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
